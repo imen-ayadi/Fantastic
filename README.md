@@ -3,6 +3,7 @@ Vous travaillez en tant qu'ingénieur spécialisé dans les systèmes décisionn
   L'entreprise "Fantastic" vend principalement des ouvrages de divertissement de type science fiction, thriller, policier... Elle dispose pour cela de plusieurs magasins de vente dans les centres des grandes villes en France. La direction de l'entreprise souhaite faire une étude large sur les ventes de l'année passée afin de prendre des orientations stratégiques nouvelles : ouverture de nouveaux magasins, fermeture ou transfert de magasins mal implantés, extension territoriale à de nouveaux départements français, réorganisation des directions, réorientation du marketing, élargissement ou réduction du catalogue, etc
   ## Conducting a BI Analysis for Fantastic with SSIS, SSMS, and Power BI
 
+
 **1. Data Extraction and Transformation (SSIS):**
 
 * **Identify data sources:** Gather data from sales transactions, customer information, and product details across all stores. This may involve connecting to various databases or flat files.
